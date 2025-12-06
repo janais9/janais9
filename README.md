@@ -13,8 +13,7 @@
 
 ## :mortar_board: Education
 
-### Bachelor in Information Systems
-**Umm Al-Qura University** | *Sep 2021 - Feb 2025*  
+### Bachelor in Information Systems | **Umm Al-Qura University** | *Sep 2021 - Feb 2025*  
 
 **Key Coursework:**
 - **Core IS & Business:** Introduction to Information Systems, Business Process Management, Enterprise Architecture, Strategic Information Systems
